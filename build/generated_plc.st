@@ -32,9 +32,9 @@ PROGRAM Sludge
     Const10000 AT %MW3.6 : INT := 10000;
     phUpper AT %MW3.7 : INT := 8;
     pHLower AT %MW3.8 : INT := 6;
-    TurbidityThreshold AT %MW3.5 : INT := 10000;
-    TSSThreshold AT %MW3.7 : INT := 275;
-    UVUpper AT %MW3.8 : INT := 10500;
+    TurbidityThreshold AT %MW3.52 : INT := 10000;
+    TSSThreshold AT %MW3.71 : INT := 275;
+    UVUpper AT %MW3.81 : INT := 10500;
     UVLower AT %MW3.9 : INT := 0;
   END_VAR
   VAR
